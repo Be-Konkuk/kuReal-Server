@@ -34,6 +34,7 @@
   <component name="DBNavigator.Project.DatabaseConsoleManager">
     <connection id="70852eae-344d-4df4-ba6f-447b5a4a2284">
       <console name="kuReal" type="STANDARD" schema="mysql" session="Main" />
+
     </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
